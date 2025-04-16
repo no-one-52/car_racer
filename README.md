@@ -1,6 +1,7 @@
 # Ultimate Racer 🚗💨
 
-![Game Screenshot](https://via.placeholder.com/800x600) *(Replace with actual screenshot)*
+![image](https://github.com/user-attachments/assets/26152013-9060-40ee-9d85-4c2243694870)
+
 
 A fast-paced racing game with multiple levels, power-ups, and dynamic weather effects built with Pygame.
 
